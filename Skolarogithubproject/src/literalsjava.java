@@ -2,8 +2,8 @@
 public class literalsjava {
 	public static void main(String[] args)
 	{
-		boolean flag=false;
-		System.out.println(flag);
+		boolean flag=false; //boolean is data type // flag is literal
+		System.out.println(flag); //literal is nothing but representation of fixed value..
 	}
 
 }

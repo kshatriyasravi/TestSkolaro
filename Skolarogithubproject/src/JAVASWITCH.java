@@ -11,7 +11,7 @@ public class JAVASWITCH {
 		case 1:
 			day="monday";
 			break;
-		case 2:ss
+		case 2:
 			day="tuesday";
 			break;
 		case 3:
